@@ -1,2 +1,2 @@
 # ProjetoTCC
-Projeto e aplicativo desenvolvido no TCC
+Aplicativo desenvolvido no TCC
